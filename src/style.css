@@ -1,5 +1,5 @@
-@import url(https://fonts.google.com/specimen/Lexend+Deca);
-@import url(https://fonts.google.com/specimen/Big+Shoulders+Display);
+@import url(https://fonts.googleapis.com/css?family=Lexend+Deca|Big+Shoulders+Display);
+
 *{
     margin: 0;
     padding: 0;
@@ -23,7 +23,7 @@
 .card{
     display: flex;
     flex-direction:column;
-    padding: 80px 83px 80px 83px;
+    padding: 70px 76px 70px 76px;
     gap: 2rem;
 }
 .text {
@@ -42,7 +42,7 @@
 .text p {
     color: hsla(0, 0%, 100%, 0.75);
     font-size: 15px;
-    font-weight: 350;
+    font-weight: 250;
     line-height: 1.5;
 }
 .learn-more-btn {
@@ -54,7 +54,6 @@
     width: 75%;
     height: 3rem;
     border-radius: 30px;
-    color: rgba(255, 255, 255, 0);
     cursor: pointer;
 }
 .learn-more-btn:hover {
