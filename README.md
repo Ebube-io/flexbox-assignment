@@ -33,7 +33,7 @@ As mentioned above, there are a number of ways to host your project for free. We
 
 ## Experience Building the Project
 
-I was stuck during styling of the project, toggling between properties and values. Got help from folks in my Learning Community. Comparing my code with that of someone who did this project before was helpful as I realized similar results could be achieved with different approach to problem-solving. Also
+I was stuck during styling of the project, toggling between properties and values. Got help from folks in my Learning Community. Comparing my code with that of someone who did this project before was helpful as I realized similar results could be achieved with different approach to problem-solving.
 
 ## Deployed Project
 https://roaring-fudge-3ef246.netlify.app/
