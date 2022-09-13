@@ -31,7 +31,7 @@ As mentioned above, there are a number of ways to host your project for free. We
 4. Connect your project to netlify from the "Import project" page, using the "From Git Repository" button and selecting the project you want to deploy.
    Once connected, every time you git push, netlify will create a new deployment and the deployment URL will be shown on your Dashboard.
 
-##Experience Building the Project
+## Experience Building the Project
 
 I was stuck during styling of the project, toggling between properties and values. Got help from folks in my Learning Community. Comparing my code with that of someone who did this project before was helpful as I realized similar results could be achieved with different approach to problem-solving. Also
 
